@@ -2,7 +2,6 @@
 
 # bamtol2 - SeungWoo Seo
 
-![SeungWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamtol2&show_icons=true&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=7504a)](https://solved.ac/7504a/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=7504a&theme=warm)
