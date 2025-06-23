@@ -40,8 +40,3 @@
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
- 
-## :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:fatmunk7504@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:7504a@naver.com)
-
