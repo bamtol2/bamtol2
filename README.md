@@ -2,7 +2,7 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=7504a)](https://solved.ac/7504a/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=7504a&theme=warm)
+<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=7504a&theme=warm) -->
 
 ## Education
 
